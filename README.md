@@ -51,3 +51,7 @@ Canal oficial: https://www.youtube.com/@WavesAndShapes
 ## Menú principal animado
 
 La galería reemplaza el antiguo hangar por main-menu.gif: captura real de scenes/menu/SimulationScene.tscn, el fondo visible del MainMenu actual, sin botones ni audio. Se grabaron 96 fotogramas a 12 FPS desde Godot y se comprimieron a 400×226, 8 FPS, 64 colores y unos 6 segundos en ida/vuelta (movimiento acelerado para este adelanto). Tamaño aproximado: 1,2 MB. main-menu.jpg es el fotograma estático usado en el hero y como alternativa con movimiento reducido. Ambos archivos se sirven localmente con las rutas base de GitHub Pages; no requieren servicios externos. La captura fuente y sus logs quedan en export/web-menu-preview del repositorio del juego, sin modificar sus escenas.
+
+## Apoyo para licencias musicales
+
+La sección Apoyar / Support enlaza a https://ko-fi.com/neimex23 para aportes voluntarios destinados a financiar licencias musicales del juego. También se accede desde la navegación y el pie. Es un enlace externo directo, sin widget, scripts de terceros, backend ni datos de pago en la web; funciona en GitHub Pages. No se muestran metas ni importes recaudados sin una fuente de datos.
